@@ -1,11 +1,11 @@
 const buttonLogin = document.getElementById('button-login');
+const persInput = document.getElementById('personalizado');
 
 buttonLogin.addEventListener('click', function () {
   const nameInput = document.getElementById('user-email-phone').value;
   alert(`${nameInput}`);
 });
 
-const persInput = document.getElementById('personalizado');
 persInput.addEventListener('click', function () {
   const choiceGender = document.createElement('input');
   choiceGender.className = 'input';
