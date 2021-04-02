@@ -2,6 +2,8 @@
 Look an idea of the page you must reproduce<br>
 Try to be as faithful as possible<br>
 
+https://carolsi-hub.github.io/Trybe-Clone-Redes-Sociais/
+
 <img src="./facebook.png" />
 
 Mandatory requests:<br><br>
